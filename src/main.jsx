@@ -6,11 +6,11 @@ import "./index.css";
 
 const router = createBrowserRouter([
   {
-    path: "Home",
+    path: "vite",
     element: <div>Hello world!</div>,
   },
   {
-    path: "Home/huy",
+    path: "vite/huy",
     element: <div>2</div>,
   },
 ]);
